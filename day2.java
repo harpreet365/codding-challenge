@@ -13,6 +13,6 @@ class Solution {
              map.put(nums[i], i);
          }
          
-         return new int[]{}; // This won't execute since there's exactly one solution
+         return new int[]{}; 
      }
  }
